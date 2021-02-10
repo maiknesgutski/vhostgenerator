@@ -1,4 +1,5 @@
 #VHOSTGENERATOR
+
 This VHOST generating bash script is what I wrote and use to automate symlinking my project folders
 into my /var/www folder and to automatically generate a fitting VHOSTS file in the etc/apache2/sites-available/
 directory.
